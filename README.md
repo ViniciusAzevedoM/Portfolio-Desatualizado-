@@ -1,5 +1,5 @@
 # Portfolio
-## Portfólio com alguns dos principais projetos e sites em que trabalhei.
+## Portfólio com alguns projetos e sites em que trabalhei.
 
 ### Sites desenvolvidos em equipe:
 - https://www.carpediemhomes.com.br/ (Responsivo)
