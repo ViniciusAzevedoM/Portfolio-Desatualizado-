@@ -1,7 +1,7 @@
 # Portfolio
 ## Portfólio com alguns projetos e sites em que trabalhei.
 
-### Sites desenvolvidos:
+### Alguns sites desenvolvidos:
 - https://www.carpediemhomes.com.br/ (Responsivo)
 - https://www.carpediemhomes.com.br/carrers/ (Responsivo)
 
